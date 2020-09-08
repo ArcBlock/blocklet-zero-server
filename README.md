@@ -13,3 +13,10 @@ To make changes
 - edit or add pages in `www/`, in any of the supported frameworks/languages (see above).
 - add NPM modules to `www/package.json` instead of the root one. Or just `require()` them in your code and Zero will auto install it.
 
+## Get Started
+
+You can install zero globally by:
+
+```
+npm install -g **zero**
+```
